@@ -17,5 +17,5 @@ while 1 == 1:
         and alarmM == datetime.datetime.now().minute
     ):
         print("Time to wake up")
-        playsound("C:\\Users\\KIIT\\Desktop\\python project\\play.mp3")
+        playsound("C:\\Users\\KIIT\\Desktop\\ALARM CLOCK\\play.mp3")
         break
